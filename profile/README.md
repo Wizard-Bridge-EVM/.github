@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-This is what we doing. It is a unique ERC-20 bridge that supports all EVM Chains. It works similarly to WrappedToken, but with the special ability it can receive and cross networks correctly. I call this project "Wizard Bridge EVM | Fact Protocol Interface : (Proof of Message)"
+This is what we doing. It is a unique ERC-20 bridge that supports all EVM Chains. It works similarly to WrappedToken, but with the special ability it can receive and cross networks correctly. I call this project **"Wizard Bridge EVM | Fact Protocol Interface : (Proof of Message)"** 🧙
+
+- Read more: https://wizard-bridge-evm.gitbook.io/docs/
+- Website (demo): https://testnet--wizard-bridge-evm.web.app/
 
 <!--
 
