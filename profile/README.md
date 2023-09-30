@@ -5,7 +5,7 @@
 
 I call this Project  🧙 **"Wizard Bridge EVM | Fact Protocol Interface : (Proof of Message)"** 🧙
 
-👩‍💻
+ 👩‍💻 **Cross-chain Protocol**
 - Read more: https://wizard-bridge-evm.gitbook.io/docs/
 - Website (demo): https://testnet--wizard-bridge-evm.web.app/
 
