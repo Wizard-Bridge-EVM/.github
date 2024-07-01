@@ -1,4 +1,14 @@
-## Hi there 👋 Welcome to Wizard Bridge EVM
+## 👋 Welcome to Wizard Bridge EVM
+
+<br>
+<p align="center">
+  <a href="https://wizard-bridge-evm.gitbook.io/docs">
+      <picture>
+        <img alt="logo" src="https://github.com/Wizard-Bridge-EVM/.github/blob/main/wizardbridgeevm-cover.png" height="400px">
+      </picture>
+</a>
+</p>
+<!-- <br> -->
 
 🙋‍♀️ This is what we doing. It is a unique ERC-20 bridge that supports all EVM Chains. It works similarly to WrappedToken, but with the special ability it can receive and cross networks correctly. 🌈
 
